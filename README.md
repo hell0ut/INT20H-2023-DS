@@ -1,19 +1,19 @@
 
 # INT20H-2023-DS
 
-This is a repository of PyTorches team containing our solution for test task for DS selection stage hackathon.
+This is a repository of PyTorches team containing our solution for the test task of INT20H 2023 hackathon.
 
 
 
 ## Desription
 
 This repository contains 3 notebooks:
- ### 1 exploration.ipynb
+ ### 1_exploration.ipynb
  Contains EDA (Eploratory data analysis) for the given dataset, preprocessing, transformation and visualisations.
- ### 2 corellation.ipynb
- Contains the actual assignment solution with corellation of different event, event sets and their attributes with the target value.
- ### RNN Fun research.ipynb
- Additional jypiter notebook not included in final answer but contating some reaserch of RNN usage with this dataset to predict subscription cancellation event.
+ ### 2_corellation.ipynb
+ Contains the actual assignment solution with corellation of different events, event sets, their attributes, user attributes with the target value.
+ ### RNN_fun_research.ipynb
+ Additional jupyter notebook not included in final answer but contating some research of RNN usage with this dataset to predict subscription cancellation event.
 
 
 ## Authors
